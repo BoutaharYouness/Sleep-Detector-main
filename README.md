@@ -10,7 +10,7 @@ Voici une demonstration de l'application en fonctionnement :
 
 Vous pouvez aussi telecharger la video complete :
 
-[Telecharger la video](demo.mp4?raw=true)
+[Voir la video complete](demo.mp4)
 
 ## Fonctionnalites
 
