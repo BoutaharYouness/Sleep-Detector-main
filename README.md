@@ -4,9 +4,13 @@ Sleep Detector est une application Python de vision par ordinateur qui detecte l
 
 ## Demo
 
-Une video de demonstration est disponible dans le projet. Si GitHub n'affiche pas l'apercu parce que le fichier est trop volumineux, utilisez le lien ci-dessous pour la telecharger ou l'ouvrir en brut :
+Voici une demonstration de l'application en fonctionnement :
 
-[Telecharger la demo](demo.mp4?raw=true)
+![Demo Sleep Detector](demo.gif)
+
+Vous pouvez aussi telecharger la video complete :
+
+[Telecharger la video](demo.mp4?raw=true)
 
 ## Fonctionnalites
 
